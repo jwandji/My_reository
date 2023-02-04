@@ -12,3 +12,4 @@ Original contents retained as /c/Users/jwand/.ssh/known_hosts.old
 
 jwand@joel MINGW64 /
 ...
+good
