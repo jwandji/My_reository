@@ -1,6 +1,7 @@
 # My_reository
 just for test purpose
 i want to learn devops
+<<<<<<< HEAD
 ## joel readme file
 ...
 $ ssh-keygen -R server1.anomicatech.com
@@ -13,3 +14,6 @@ Original contents retained as /c/Users/jwand/.ssh/known_hosts.old
 jwand@joel MINGW64 /
 ...
 good
+=======
+## joel read me file
+>>>>>>> parent of a07d6d4 (Update README.md)
